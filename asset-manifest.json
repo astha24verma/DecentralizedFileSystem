@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/astha24verma.github.io/DecentralizedFileSystem/static/css/main.86b1d94b.css",
+    "main.js": "/astha24verma.github.io/DecentralizedFileSystem/static/js/main.c91fea39.js",
+    "static/js/787.d5fa4d18.chunk.js": "/astha24verma.github.io/DecentralizedFileSystem/static/js/787.d5fa4d18.chunk.js",
+    "index.html": "/astha24verma.github.io/DecentralizedFileSystem/index.html",
+    "main.86b1d94b.css.map": "/astha24verma.github.io/DecentralizedFileSystem/static/css/main.86b1d94b.css.map",
+    "main.c91fea39.js.map": "/astha24verma.github.io/DecentralizedFileSystem/static/js/main.c91fea39.js.map",
+    "787.d5fa4d18.chunk.js.map": "/astha24verma.github.io/DecentralizedFileSystem/static/js/787.d5fa4d18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86b1d94b.css",
+    "static/js/main.c91fea39.js"
+  ]
+}
